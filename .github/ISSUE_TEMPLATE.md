@@ -46,6 +46,12 @@ Briefly describe the problem you are having in a few paragraphs.
 **Describe the results you expected:**
 
 
+**Version of Docker Desktop:**  
+You can find the version by clicking on the `About Docker Desktop` menu
+```
+(paste your output here)
+```
+
 **Additional information you deem important (e.g. issue happens only occasionally):**
 
 **Output of `docker version`:**
