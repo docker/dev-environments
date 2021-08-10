@@ -27,5 +27,11 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS]
  - Version [e.g. 22]
 
+**Version of Docker Desktop:**  
+You can find the version by clicking on the `About Docker Desktop` menu
+```
+(paste your output here)
+```
+
 **Additional context**
 Add any other context about the problem here.
