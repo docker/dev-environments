@@ -1,7 +1,7 @@
 # Dev Environments
 This repository contains a feedback and issue tracker for Docker Dev Environments
 
-Getting Docker Environments
+## Getting Docker Environments
 Docker Dev Environments are free as part of Docker Desktop for Mac and Windows
 To download for Windows. To download for Mac.
 
