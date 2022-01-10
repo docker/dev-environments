@@ -9,7 +9,7 @@ Docker Dev Environments make sharing and collaborating on your code easier than 
 
 If you find a problem with the software, first browse the existing issues or search from the bar at the top (s to focus) and then, if you don't find your issue, open a new issue.
 
-If you have new feature requests/improvements then please feel free to open a new feature request here, if you have a new idea not related to Dev Envionments then please add something to Dockers public roadmap [See the roadmap](http://github.com/docker/roadmap)
+If you have new feature requests/improvements then please feel free to open a new feature request here, if you have a new idea not related to Dev Environments then please add something to Dockers public roadmap [See the roadmap](http://github.com/docker/roadmap)
 
 [Contribute to our roadmap](https://github.com/docker/roadmap/issues/new/choose)
 
