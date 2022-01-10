@@ -22,7 +22,7 @@ Please do not create a public github issue. If you discover a potential security
 ## FAQs
 Q: How do I get started with Dev Environments?
 
-A: Please read through our docs (TODO new link)
+A: Please read through our [docs](https://docs.docker.com/desktop/dev-environments/).
 
 Q: I have a bug on Docker Desktop not related to Dev envs
 
