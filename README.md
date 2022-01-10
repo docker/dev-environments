@@ -2,7 +2,7 @@
 This repository contains a feedback and issue tracker for Docker Dev Environments.
 
 ## Getting Docker Environments
-Docker Dev Environments are free as part of Docker Desktop for Mac and Windows ([download](https://www.docker.com/products/docker-desktop).
+Docker Dev Environments are free as part of Docker Desktop for Mac and Windows ([download](https://www.docker.com/products/docker-desktop)).
 
 ## Introduction
 Docker Dev Environments make sharing and collaborating on your code easier than ever before. With just one click, you can share your work-in-progress code with your entire team for faster, higher-quality code reviews. That means less time fixing dependencies, and more time writing new code. With your whole team's work near at hand, you’re just one click away from faster code collaboration.
