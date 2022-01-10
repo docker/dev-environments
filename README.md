@@ -26,11 +26,11 @@ A: Please read through our [docs](https://docs.docker.com/desktop/dev-environmen
 
 Q: I have a bug on Docker Desktop not related to Dev Environments.
 
-A: Please open an issue either on for-win, for mac or on engine as appropriate.
+A: Please open an issue either on for win, for mac or on engine as appropriate.
 
-Docker Engine
-Docker Desktop Windows
-Docker Desktop Mac
+- [Docker Desktop Windows](https://github.com/docker/for-win/)
+- [Docker Desktop Mac](https://github.com/docker/for-mac/)
+- [Docker Engine](https://github.com/moby/moby)
 
 Q: How do I use the sharing feature?
 
