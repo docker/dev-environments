@@ -1,3 +1,6 @@
+> [!WARNING]
+> Dev Environments has been deprecated and removed from Docker Desktop version 4.42 and later.
+
 # Dev Environments
 This repository contains a feedback and issue tracker for Docker Dev Environments.
 
